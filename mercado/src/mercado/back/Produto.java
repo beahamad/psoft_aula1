@@ -1,4 +1,4 @@
-package mercado;
+package mercado.back;
 
 public class Produto {
 	

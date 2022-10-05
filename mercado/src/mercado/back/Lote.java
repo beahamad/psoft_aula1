@@ -1,4 +1,4 @@
-package mercado;
+package mercado.back;
 
 import java.util.Date;
 
